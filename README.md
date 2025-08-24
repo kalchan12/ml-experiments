@@ -1,4 +1,4 @@
-git
+
 # ML Basics Notebook
 
 This notebook series serves as a foundational project in Machine Learning, demonstrating key concepts such as statistics, visualization, classification, regression, and clustering. It was developed to practice and consolidate the core techniques used in ML, making it a useful reference for anyone starting their ML journey.
